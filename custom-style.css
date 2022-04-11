@@ -1,0 +1,265 @@
+.logo, .logo-2 {
+	width: 60px;
+	height: auto;
+}
+.fa-instagram {
+	background: linear-gradient(to right, #eb3349, #f45c43);
+	transition: .5s;
+}
+
+.fa-instagram:hover {
+	transition: .5s;
+}
+
+.btn-custom-wa {
+	border: 3px solid #fff;
+}
+
+.bingung-img {
+	width: 340px;
+	height: auto;
+	bottom: 0;
+	text-align: center;
+}
+
+.infiniteaos-to-right {
+  animation: infiniteaos-to-right 1s infinite;
+  transition: 1s;
+  transform: 1s;
+}
+
+
+@keyframes infiniteaos-to-right {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+    transition: 1s;
+    transform: 1s;
+  }
+  33% {
+    transform: translateX(-50px);
+    opacity: 1;
+    transition: 1s;
+    transform: 1s;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+    transition: 1s;
+    transform: 1s;
+  }
+}
+
+.infiniteaos-to-left {
+  animation: infiniteaos-to-left 1s infinite;
+  transition: 1s;
+  transform: 1s;
+}
+
+
+@keyframes infiniteaos-to-left {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+    transition: 1s;
+    transform: 1s;
+  }
+  33% {
+    transform: translateX(50px);
+    opacity: 1;
+    transition: 1s;
+    transform: 1s;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+    transition: 1s;
+    transform: 1s;
+  }
+}
+
+.txt-shadow{
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+
+.btn-animate {
+  animation: btn-animate 1s ease-in-out infinite;
+  animation-direction: left;
+  transition: 1s;
+  transform: 1s;
+}
+
+@keyframes btn-animate {
+  0% {
+    transform: scaleX(1.0);
+  }
+  33% {
+    transform: scaleX(1.2);
+  }
+  100% {
+    transform: scaleX(1.0);
+  }
+}
+
+.sec-fixed {
+  overflow: hidden;
+  width: 100%;
+  bottom: 0;
+  z-index: 100;
+}
+
+.footer-setting {
+  height: 350px;
+}
+
+
+/* Wobble Horizontal */
+@-webkit-keyframes wobble-horizontal {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  10% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  16% {
+    -webkit-transform: translateX(-2px);
+    transform: translateX(-2px);
+  }
+
+  17% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+
+  18% {   
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);
+  }
+  19% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+
+  20% { 
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);
+  }
+
+  21% {
+    -webkit-transform: translateX(2px);
+    transform: translateX(2px);
+  }
+
+  66.6% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+@keyframes wobble-horizontal {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  10% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  16% {
+    -webkit-transform: translateX(-2px);
+    transform: translateX(-2px);
+  }
+
+  17% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+
+  18% {   
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);
+  }
+  19% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+
+  20% { 
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);
+  }
+
+  21% {
+    -webkit-transform: translateX(2px);
+    transform: translateX(2px);
+  }
+
+  66.6% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+.wobble-horizontal {
+  display: inline-block;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-animation-name: wobble-horizontal;
+  animation-name: wobble-horizontal;
+  -webkit-animation-duration: 20s;
+  animation-duration: 20s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: infinite;
+  animation-delay: 1s;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+  animation-play-state: running;
+}
+
+.textarea-auto-height {
+  overflow: hidden;
+  display: block;
+  min-height: 200px;
+}
+
+.rounded-10 {
+  border-radius: 10px;
+}
+
+.pe-auto {
+  cursor: pointer;
+}
+
+#clockdiv{
+  display: inline-block;
+  font-weight: 100;
+}
+
+#clockdiv > div{
+  display: inline-block;
+}
+
+#clockdiv div > span{
+  display: inline-block;
+  border: solid 5px white;
+}
