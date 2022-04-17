@@ -108,6 +108,8 @@
 	</div>
 </div>
 <!-- end modal gallery-->
+
+
 <!-- modal pricelist -->
 <div class="modal fade" id="vinyl-cutting-sticker" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
@@ -135,7 +137,7 @@
 				</ul>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg" data-dismiss="modal"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</button>
+				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20cutting%20sticker%20vinyl%20sebanyak%20...pcs.%20Silahkan%20ganti%20...%20dengan%20jumlah%20sticker%20yang%20anda%20butuhkan%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
 			</div>
 		</div>
 	</div>
@@ -166,7 +168,7 @@
 				</ul>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg" data-dismiss="modal"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</button>
+				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20cutting%20sticker%20transparan%20sebanyak%20...pcs.%20Silahkan%20ganti%20...%20dengan%20jumlah%20sticker%20yang%20anda%20butuhkan%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
 			</div>
 		</div>
 	</div>
@@ -197,7 +199,7 @@
 				</ul>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg" data-dismiss="modal"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</button>
+				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20cutting%20sticker%20chromo%20sebanyak%20...pcs.%20Silahkan%20ganti%20...%20dengan%20jumlah%20sticker%20yang%20anda%20butuhkan%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
 			</div>
 		</div>
 	</div>
@@ -228,7 +230,7 @@
 				</ul>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg" data-dismiss="modal"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</button>
+				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20cutting%20sticker%20silver%20sebanyak%20...pcs.%20Silahkan%20ganti%20...%20dengan%20jumlah%20sticker%20yang%20anda%20butuhkan%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
 			</div>
 		</div>
 	</div>
@@ -258,7 +260,7 @@
 				</ul>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg" data-dismiss="modal"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</button>
+				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20desain%20lable%20full%20color%20secara%20gratis.%20Nama%20brand%20produk%20saya%20adalah%20....%20Silahkan%20ganti%20...%20dengan%20nama%20brand%20anda%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
 			</div>
 		</div>
 	</div>
@@ -288,7 +290,7 @@
 				</ul>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg" data-dismiss="modal"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</button>
+				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20desain%20lable%20black%20white%20secara%20gratis.%20Nama%20brand%20produk%20saya%20adalah%20....%20Silahkan%20ganti%20...%20dengan%20nama%20brand%20anda%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
 			</div>
 		</div>
 	</div>
