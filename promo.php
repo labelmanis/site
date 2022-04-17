@@ -10,7 +10,7 @@
 							<div class="card mb-4 rounded-3 shadow-sm overflow-hidden">
 								<div class="card-header border-0 py-3 bg-transparent overflow-hidden">
 									<h3 class="fw-normal text-capitalize text-left">cutting sticker vinyl</h3>
-									<img class="w-100" src="images/portfolio/pf square (1).jpg">
+									<img class="w-100" src="images/portfolio/sample product/cutting sticker vinyl.png">
 								</div>
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
@@ -27,7 +27,7 @@
 							<div class="card mb-4 rounded-3 shadow-sm overflow-hidden">
 								<div class="card-header border-0 py-3 bg-transparent overflow-hidden">
 									<h3 class="fw-normal text-capitalize text-left">cutting sticker transparent</h3>
-									<img class="w-100" src="images/portfolio/pf square (1).jpg">
+									<img class="w-100" src="images/portfolio/sample product/cutting sticker transparent.png">
 								</div>
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
@@ -44,7 +44,7 @@
 							<div class="card mb-4 rounded-3 shadow-sm overflow-hidden">
 								<div class="card-header border-0 py-3 bg-transparent overflow-hidden">
 									<h3 class="fw-normal text-capitalize text-left">cutting sticker chromo</h3>
-									<img class="w-100" src="images/portfolio/pf square (1).jpg">
+									<img class="w-100" src="images/portfolio/sample product/cutting sticker chromo.png">
 								</div>
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
@@ -61,7 +61,7 @@
 							<div class="card mb-4 rounded-3 shadow-sm overflow-hidden">
 								<div class="card-header border-0 py-3 bg-transparent overflow-hidden">
 									<h3 class="fw-normal text-capitalize text-left">cutting sticker silver</h3>
-									<img class="w-100" src="images/portfolio/pf square (1).jpg">
+									<img class="w-100" src="images/portfolio/sample product/cutting sticker silver.png">
 								</div>
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
@@ -78,7 +78,7 @@
 							<div class="card mb-4 rounded-3 shadow-sm overflow-hidden">
 								<div class="card-header border-0 py-3 bg-transparent overflow-hidden">
 									<h3 class="fw-normal text-capitalize text-left">desain lable full color</h3>
-									<img class="w-100" src="images/portfolio/pf square (1).jpg">
+									<img class="w-100" src="images/portfolio/sample product/desain label full color.jpg">
 								</div>
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
@@ -95,7 +95,7 @@
 							<div class="card mb-4 rounded-3 shadow-sm overflow-hidden">
 								<div class="card-header border-0 py-3 bg-transparent overflow-hidden">
 									<h3 class="fw-normal text-capitalize text-left">desain lable black white</h3>
-									<img class="w-100" src="images/portfolio/pf square (1).jpg">
+									<img class="w-100" src="images/portfolio/sample product/desain label black white.jpg">
 								</div>
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
