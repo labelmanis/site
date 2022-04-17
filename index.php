@@ -255,7 +255,7 @@
 	</section>
 </div>
 <div class="bg-white text-center pb-5">
-	<a href="contact.html" class="btn btn-success pl-4 pr-4 rounded-pill text-light btn-custom-wa"> <i class="fa fa-whatsapp fa-lg"></i> Tanya sesuatu</a>
+	<a href="contact.php" class="btn btn-success pl-4 pr-4 rounded-pill text-light btn-custom-wa"> <i class="fa fa-whatsapp fa-lg"></i> Tanya sesuatu</a>
 </div>
 <!-- content close -->
 <?php include 'footer.php';?>

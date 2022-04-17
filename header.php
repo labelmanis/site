@@ -82,9 +82,9 @@
 							<!-- mainmenu begin -->
 							<nav>
 								<ul id="mainmenu">
-									<li><a href="#tips">Manfaat</a></li>
-									<li><a href="#section-portfolio">Contoh</a></li>
-									<li><a href="#service">Service</a></li>
+									<li><a href="index.php#tips">Manfaat</a></li>
+									<li><a href="index.php#section-portfolio">Contoh</a></li>
+									<li><a href="index.php#service">Service</a></li>
 								</ul>
 							</nav>
 							<!-- mainmenu close -->
