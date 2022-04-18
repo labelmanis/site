@@ -83,7 +83,7 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-primary">desain label</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  61.000  </span></li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  86.000  </span></li>
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 										<li class="text-capitalize">desain lable full color</li>
 									</ul>
@@ -100,7 +100,7 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-primary">desain label</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  36.000  </span></li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  49.000  </span></li>
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 										<li class="text-capitalize">desain lable black white</li>
 									</ul>
