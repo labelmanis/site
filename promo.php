@@ -15,9 +15,9 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-success">cutting</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 150.000  </span></li>
-										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 144.000</h2></li>
-										<li class="text-capitalize">240pcs sticker 5x5cm</li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 73.000  </span></li>
+										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
+										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
 									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#vinyl-cutting-sticker"><i class="fa fw fa-eye"></i> lihat detail</button>
 								</div>
@@ -32,9 +32,9 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-success">cutting</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 150.000  </span></li>
-										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 144.000</h2></li>
-										<li class="text-capitalize">240pcs sticker 5x5cm</li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 73.000  </span></li>
+										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
+										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
 									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#cutting-sticker-transparent"><i class="fa fw fa-eye"></i> lihat detail</button>
 								</div>
@@ -49,9 +49,9 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-success">cutting</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 126.000  </span></li>
-										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 120.000</h2></li>
-										<li class="text-capitalize">240pcs sticker 5x5cm</li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 65.000  </span></li>
+										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 58.000</h2></li>
+										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
 									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#cutting-sticker-chromo"><i class="fa fw fa-eye"></i> lihat detail</button>
 								</div>
@@ -66,9 +66,9 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-success">cutting</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 186.000  </span></li>
-										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 174.000</h2></li>
-										<li class="text-capitalize">240pcs sticker 5x5cm</li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 84.000  </span></li>
+										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 74.000</h2></li>
+										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
 									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#cutting-sticker-silver"><i class="fa fw fa-eye"></i> lihat detail</button>
 								</div>
@@ -83,7 +83,7 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-primary">desain label</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  86.000  </span></li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  100.000  </span></li>
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 										<li class="text-capitalize">desain lable full color</li>
 									</ul>
@@ -100,7 +100,7 @@
 								<div class="card-body text-left mt-0 pt-0">
 									<ul class="list-unstyled mt0 mb-4 border p-3">
 										<li class="text-capitalize text-primary">desain label</li>
-										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  49.000  </span></li>
+										<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  70.000  </span></li>
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 										<li class="text-capitalize">desain lable black white</li>
 									</ul>

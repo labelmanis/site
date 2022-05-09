@@ -123,9 +123,9 @@
 			<div class="modal-body">
 				<ul class="list-unstyled mt0 mb-3 border p-3">
 					<li class="text-capitalize text-success">cutting</li>
-					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 150.000  </span></li>
-					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 144.000</h2></li>
-					<li class="text-capitalize">240pcs sticker 5x5cm</li>
+					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 73.000  </span></li>
+					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
+					<li class="text-capitalize">80pcs sticker 5x5cm</li>
 				</ul>
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> Bahan sticker vinyl</li>
@@ -134,6 +134,12 @@
 					<li class=""><i class="fa fa-fw fa-thumbs-o-up"> </i> Menarik & mudah digunakan</li>
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
+				</ul>
+				<hr class="m-3 border-top">				
+				<ul class="list-unstyled mt0 mb-0 p-3">
+					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 134.000</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 400pcs Sticker hanya Rp. 203.000</li>
 				</ul>
 			</div>
 			<div class="modal-footer">
@@ -154,9 +160,9 @@
 			<div class="modal-body">
 				<ul class="list-unstyled mt0 mb-3 border p-3">
 					<li class="text-capitalize text-success">cutting</li>
-					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 150.000  </span></li>
-					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 144.000</h2></li>
-					<li class="text-capitalize">240pcs sticker 5x5cm</li>
+					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 73.000  </span></li>
+					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
+					<li class="text-capitalize">80pcs sticker 5x5cm</li>
 				</ul>
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> Bahan sticker transparan</li>
@@ -165,6 +171,12 @@
 					<li class=""><i class="fa fa-fw fa-thumbs-o-up"> </i> Menarik & mudah digunakan</li>
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
+				</ul>
+				<hr class="m-3 border-top">				
+				<ul class="list-unstyled mt0 mb-0 p-3">
+					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 134.000</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 400pcs Sticker hanya Rp. 203.000</li>
 				</ul>
 			</div>
 			<div class="modal-footer">
@@ -185,9 +197,9 @@
 			<div class="modal-body">
 				<ul class="list-unstyled mt0 mb-3 border p-3">
 					<li class="text-capitalize text-success">cutting</li>
-					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 126.000  </span></li>
-					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 120.000</h2></li>
-					<li class="text-capitalize">240pcs sticker 5x5cm</li>
+					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 65.000  </span></li>
+					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 58.000</h2></li>
+					<li class="text-capitalize">80pcs sticker 5x5cm</li>
 				</ul>
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> Bahan sticker chromo</li>
@@ -196,6 +208,12 @@
 					<li class=""><i class="fa fa-fw fa-thumbs-o-up"> </i> Menarik & mudah digunakan</li>
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
+				</ul>
+				<hr class="m-3 border-top">				
+				<ul class="list-unstyled mt0 mb-0 p-3">
+					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 113.000</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 400pcs Sticker hanya Rp. 168.000</li>
 				</ul>
 			</div>
 			<div class="modal-footer">
@@ -216,9 +234,9 @@
 			<div class="modal-body">
 				<ul class="list-unstyled mt0 mb-3 border p-3">
 					<li class="text-capitalize text-success">cutting</li>
-					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 186.000  </span></li>
-					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 174.000</h2></li>
-					<li class="text-capitalize">240pcs sticker 5x5cm</li>
+					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through"> 84.000  </span></li>
+					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 74.000</h2></li>
+					<li class="text-capitalize">80pcs sticker 5x5cm</li>
 				</ul>
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> Bahan sticker silver</li>
@@ -227,6 +245,12 @@
 					<li class=""><i class="fa fa-fw fa-thumbs-o-up"> </i> Menarik & mudah digunakan</li>
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
+				</ul>
+				<hr class="m-3 border-top">				
+				<ul class="list-unstyled mt0 mb-0 p-3">
+					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 161.000</li>
+					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 400pcs Sticker hanya Rp. 249.000</li>
 				</ul>
 			</div>
 			<div class="modal-footer">
@@ -247,7 +271,7 @@
 			<div class="modal-body">
 				<ul class="list-unstyled mt0 mb-3 border p-3">
 					<li class="text-capitalize text-primary">desain label</li>
-					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  61.000  </span></li>
+					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  100.000  </span></li>
 					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 					<li class="text-capitalize">desain lable full color</li>
 				</ul>
@@ -277,7 +301,7 @@
 			<div class="modal-body">
 				<ul class="list-unstyled mt0 mb-3 border p-3">
 					<li class="text-capitalize text-primary">desain label</li>
-					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  36.000  </span></li>
+					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  70.000  </span></li>
 					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 					<li class="text-capitalize">desain lable full color</li>
 				</ul>
