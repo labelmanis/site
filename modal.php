@@ -108,8 +108,6 @@
 	</div>
 </div>
 <!-- end modal gallery-->
-
-
 <!-- modal pricelist -->
 <div class="modal fade" id="vinyl-cutting-sticker" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
@@ -127,20 +125,46 @@
 					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
 					<li class="text-capitalize">80pcs sticker 5x5cm</li>
 				</ul>
-				<ul class="list-unstyled mt0 mb-0 p-3">
-					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> Bahan sticker vinyl</li>
-					<li class=""><i class="fa fa-fw fa-star"> </i> Kelebihan anti air</li>
-					<li class=""><i class="fa fa-fw fa-th-large"> </i> Ukuran bisa menyesuaikan</li>
-					<li class=""><i class="fa fa-fw fa-thumbs-o-up"> </i> Menarik & mudah digunakan</li>
-					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
-					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
-				</ul>
-				<hr class="m-3 border-top">				
-				<ul class="list-unstyled mt0 mb-0 p-3">
-					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
-					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 134.000</li>
-					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 400pcs Sticker hanya Rp. 203.000</li>
-				</ul>
+				<div class="accordion" id="accordionExample">
+					<div class="card">
+						<div class="card-header p-0" id="headingOne">
+							<h2 class="mb-0">
+							<button class="btn font-weight-bold btn-link btn-block text-left dropdown-toggle" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+							Keterangan
+							</button>
+							</h2>
+						</div>
+						<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+							<div class="card-body">
+								<ul class="list-unstyled mt0 mb-0 p-3">
+									<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> Bahan sticker vinyl</li>
+									<li class=""><i class="fa fa-fw fa-star"> </i> Kelebihan anti air</li>
+									<li class=""><i class="fa fa-fw fa-th-large"> </i> Ukuran bisa menyesuaikan</li>
+									<li class=""><i class="fa fa-fw fa-thumbs-o-up"> </i> Menarik & mudah digunakan</li>
+									<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
+									<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header p-0" id="headingTwo">
+							<h2 class="mb-0">
+							<button class="btn btn-link btn-block text-left font-weight-bold collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+							Lebih Murah <i class="fa fa-fw fa-hand-o-left left-right-animation"> </i>
+							</button>
+							</h2>
+						</div>
+						<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+							<div class="card-body">
+								<ul class="list-unstyled mt0 mb-0 p-3">
+									<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 134.000</li>
+									<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 400pcs Sticker hanya Rp. 203.000</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 			<div class="modal-footer">
 				<a class="btn btn-danger btn-block text-capitalize font-weight-bold btn-lg text-white" href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Saya%20ingin%20order%20cutting%20sticker%20vinyl%20sebanyak%20...pcs.%20Silahkan%20ganti%20...%20dengan%20jumlah%20sticker%20yang%20anda%20butuhkan%20:)"><i class="fa fa-fw fa-lock"> </i> Order dengan aman</a>
@@ -172,7 +196,7 @@
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
 				</ul>
-				<hr class="m-3 border-top">				
+				<hr class="m-3 border-top">
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 134.000</li>
@@ -209,7 +233,7 @@
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
 				</ul>
-				<hr class="m-3 border-top">				
+				<hr class="m-3 border-top">
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 113.000</li>
@@ -246,7 +270,7 @@
 					<li class=""><i class="fa fa-fw fa-money"> </i> Cacat garansi uang kembali</li>
 					<li class=""><i class="fa fa-fw fa-truck"> </i> Belum termasuk ongkir</li>
 				</ul>
-				<hr class="m-3 border-top">				
+				<hr class="m-3 border-top">
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class="font-weight-bold mb-4">Lebih banyak lebih murah</li>
 					<li class=""><i class="fa fa-fw fa-sticky-note-o"> </i> 240pcs Sticker hanya Rp. 161.000</li>
