@@ -11,7 +11,7 @@
 					<div class="row">
 						<div class="col-12 p-0">
 							<div class="spacer-double d-block d-sm-none d-md-block"></div>
-							<h1 class="big b text-uppercase" data-aos="zoom-in-down">Membuat produkmu tampil lebih elegan</h1>
+							<h1 class="big b text-uppercase" data-aos="zoom-in-down">Membuat produkmu terlihat lebih menarik 🥰</h1>
 							<div class="spacer-double d-block d-sm-none d-md-block"></div>
 						</div>
 					</div>
@@ -37,7 +37,7 @@
 								<i class="fa fa-exclamation-circle"></i>
 								<div class="text">
 									<h3>Produk anda kurang diminati?</h3>
-									Banyak produk anda yang tidak laku dipasaran. Ditawarkan pada calon pembeli tapi tetap tidak diminati. Kemasan produk yang digunakan kurang menarik. Sulit bersaing dengan kompetitor sejenis. Membuat kemasan dengan desain khusus biayanya sangat mahal. Banyak produksi tapi pesanan sangat sedikit.
+									Banyak produk anda yang tidak laku dipasaran. Ditawarkan pada calon pembeli tapi tetap tidak diminati. Kemasan produk yang digunakan kurang menarik. Sulit bersaing dengan kompetitor sejenis. Membuat kemasan dengan desain khusus biayanya sangat mahal. Banyak produksi tapi pesanan sangat sedikit. 😭
 								</div>
 							</div>
 						</div>
@@ -50,8 +50,8 @@
 							<div class="feature-box style-2 left">
 								<i class="fa fa-sticky-note"></i>
 								<div class="text">
-									<h3>Stiker C-SRV</h3>
-									<span class="fw-bold">Stiker C-SRV</span> adalah media promosi tempel yang bentuknya bisa di custom sesuai kebutuhan usaha anda. Sticker jenis ini bermanfaat untuk mempermudah proses pelabelan pada produk. Sticker ini bisa langsung ditempel dengan sangat mudah, sehingga anda tidak perlu memotong, menggunting dan memberi lem saat melakukan pelabelan produk. Bentuknya unik sehingga akan brand anda akan sangat mudah dikenali orang. Hal tersebut akan membuat brand anda lebih menarik, lebih diminati dan lebih berkelas. Sticker ini juga bisa digunakan sebagai merchandise/ hadiah untuk konsumen setia anda. <span class="fw-bold">Stiker C-SRV</span> ini cocok untuk usaha anda yang sedang berkembang.
+									<h3>Labelmanis</h3>
+									<span class="fw-bold">Labelmanis</span> adalah penyedia jasa pembuatan label kemasan berjenis cutting sticker. Label cutting sticker merupakan media promosi tempel yang bentuknya bisa di custom sesuai kebutuhan usaha anda. Sticker jenis ini bermanfaat untuk mempermudah proses pelabelan pada produk. Sticker ini bisa langsung ditempel dengan sangat mudah, sehingga anda tidak perlu memotong, menggunting dan memberi lem saat melakukan pelabelan produk. Bentuknya unik sehingga akan brand anda akan sangat mudah dikenali orang. Hal tersebut akan membuat brand anda lebih menarik, lebih diminati dan lebih berkelas. Sticker ini juga bisa digunakan sebagai merchandise/ hadiah untuk konsumen setia anda. <span class="fw-bold">Cutting sticker</span> ini cocok untuk usaha anda yang sedang berkembang. 🤩
 								</div>
 							</div>
 						</div>
@@ -76,7 +76,7 @@
 				<div class="col-md-8 col-sm-6 col-xs-6 mb-sm-30" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0">
 					<div class="text-center text-md-left text-lg-left">
 						<h2><i class="fa fa-question-circle fa-lg"></i></h2>
-						<p><span class="fw-bold">Stiker C-SRV</span> adalah media promosi tempel yang sangat mudah digunakan. <span class="fw-bold">Stiker C-SRV</span> mampu meningkatkan daya tarik terhadap brand/ produk anda. Sticker ini cocok untuk bisnis anda yang sudah besar ataupun untuk bisnis anda yang sedang berkembang.</p>
+						<p><span class="fw-bold">Label kemasan cutting sticker</span> adalah media promosi tempel yang sangat mudah digunakan. <span class="fw-bold">Cutting sticker</span> mampu meningkatkan daya tarik terhadap brand/ produk anda. Sticker ini cocok untuk bisnis anda yang sudah besar ataupun untuk bisnis anda yang sedang berkembang.</p>
 					</div>
 				</div>
 				<div class="col-md-4 text-center">
@@ -94,7 +94,7 @@
 					<img src="images/misc/coffee.png" class="mb-sm-30 img-fluid" alt="">
 				</div>
 				<div class="col-md-6" id="tips">
-					<h2 class="mb20" data-aos="fade-left"><span class="id-color">7 Manfaat</span> menggunakan label Stiker C-SRV pada usaha anda</h2>
+					<h2 class="mb20" data-aos="fade-left"><span class="id-color">6 Manfaat</span> menggunakan label cutting sticker pada usaha anda</h2>
 					<p class="text-dark" >
 						<ol data-aos="fade-left">
 							<li>Mempermudah proses pelabelan. Sehingga anda tidak akan mengalami kesulitan & buang-buang waktu saat pemasangan.</li>
@@ -102,11 +102,11 @@
 							<li>Membuat produk lebih menarik. Hal ini meningkatkan keinginan calon konsumen untuk membeli produk anda.</li>
 							<li>Membuat produk lebih diminati. Hal ini membuat produk anda lebih cepat laku dipasaran.</li>
 							<li>Membuat produk lebih berkelas. Hal ini membuat produk anda lebih dipercaya orang.</li>
-							<li>Bisa digunakan untuk merchandise & hadiah. Hadiah bisa membuat konsumen anda lebih senang 🙂.</li>
+							<li>Bisa digunakan untuk merchandise & hadiah. Hadiah bisa membuat konsumen anda lebih senang. 🙂</li>
 						</ol>
 					</p>
 					<p data-aos="fade-left">
-						<span class="fw-bold">Stiker C-SRV</span> sangat berguna untuk para pelaku usaha seperti makanan dan minuman. Sticker ini juga bermanfaat untuk semua usaha yang membutuhkan merchandise murah dan menarik. Penggunaan <span class="fw-bold">Stiker C-SRV</span> mampu membuat produk anda jadi lebih menarik.
+						<span class="fw-bold">Label Cutting Sticker</span> sangat berguna untuk para pelaku usaha seperti makanan dan minuman. Sticker ini juga bermanfaat untuk semua usaha yang membutuhkan merchandise murah dan menarik. Penggunaan <span class="fw-bold">Cutting Sticker</span> mampu membuat produk anda jadi lebih menarik.
 					</p>
 					<div class="spacer-half"></div>
 					<p class="text-center text-md-left text-lg-left" data-aos="fade-up">
@@ -215,7 +215,7 @@
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-md-5 offset-md-1">
-					<h2 class="mb20" data-aos="fade-right"><span class="id-color">4 Kerugian</span> untuk usaha yang tidak menggunakan label pada produknya</h2>
+					<h2 class="mb20" data-aos="fade-right"><span class="id-color">4 Kerugian</span> usaha yang tidak menggunakan label pada produknya</h2>
 					<p>
 						<ol data-aos="fade-right">
 							<li>Produk tidak menarik sehingga konsumen tidak tertarik untuk membeli produk anda.</li>
@@ -225,7 +225,7 @@
 						</ol>
 					</p>
 					<p data-aos="fade-right">
-						Itulah kerugian usaha yang tidak menggunakan label pada produk yang mereka jual. Jangan buat label kemasan anda nanti, buat sekarang agar produk anda cepat diminati. labelmanis.com akan membuatkannya untuk anda.
+						Itulah kerugian usaha yang tidak menggunakan label pada produk yang mereka jual. Jangan buat label kemasan anda nanti, buat sekarang agar produk anda cepat diminati. labelmanis.com akan membuatkannya dengan senang hati. ❤️
 					</p>
 				</div>
 				<div class="col-md-6 col-4 mx-auto d-none d-sm-block" data-aos="zoom-in-down">
@@ -245,8 +245,8 @@
 				<div class="col-12 text-center">
 					<i class="fa fa-life-ring fa-lg"></i> <span class="fw-bold mb-4" style="font-weight: bold;">GARANSI</span>
 					<ul class="text-center mt-4 list-unstyled">
-						<li>Uang kembali 100% jika desain & hasil cetak tidak sesuai.</li>
-						<li>Uang kembali sebagian jika jumlah Stiker C-SRV yang dikirim kurang dari jumlah pemesanan.</li>
+						<li>Uang kembali 100% jika desain & hasil cetak, bentuknya tidak sesuai.</li>
+						<li>Uang kembali sebagian jika jumlah Cutting Stiker yang dikirim kurang dari jumlah pemesanan.</li>
 						<li>Syarat claim garansi membuat video unboxing.</li>
 					</ul>
 				</div>
