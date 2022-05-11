@@ -10,7 +10,8 @@
 	</div>
 </footer>
 <!-- Button trigger modal -->
-<?php include 'modal.php';?>
+<?php include 'modal-gallery.php';?>
+<?php include 'modal-normal.php';?>
 
 </div>
 <!-- footer close -->

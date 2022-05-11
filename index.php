@@ -237,7 +237,7 @@
 	</section>
 	<!-- section close -->
 	
-	<?php include 'promo.php'; ?>
+	<?php include 'harga-normal.php'; ?>
 	
 	<section class="garansi p-0 pt-5 pb-5">
 		<div class="container">
