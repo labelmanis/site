@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class=" col-12 text-center">
-				<h2 class="mb-1 mb-5" data-aos="fade-right">Harga Cutting Sticker</h2>
+				<h2 class="mb-1 mb-5" data-aos="fade-right">Layanan Sticker Labelmanis</h2>
 				<main>
 					<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-12 mb-3 text-center">						
 						<div class="col" data-aos="fade-up">

@@ -191,7 +191,7 @@
 					<li class="text-capitalize text-primary">desain label</li>
 					<li class="text-capitalize">Harga normal Rp. <span class="text-decoration-line-through">  70.000  </span></li>
 					<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
-					<li class="text-capitalize">desain lable full color</li>
+					<li class="text-capitalize">desain lable black white</li>
 				</ul>
 				<ul class="list-unstyled mt0 mb-0 p-3">
 					<li class=""><i class="fa fa-fw fa-star"> </i> Kelebihan harga lebih ekonomis</li>
