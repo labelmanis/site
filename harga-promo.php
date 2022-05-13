@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class=" col-12 text-center">
-				<h2 class="mb-1" data-aos="fade-right">Promo hingga 20 April 2022</h2>
+				<h2 class="mb-1" data-aos="fade-right">Promo hingga 15 Mei 2022</h2>
 				<h5 id="demo" class="mb-5 text-white bg-color d-inline-block p-2 rounded-lg"></h5>
 				<main>
 					<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-12 mb-3 text-center">						

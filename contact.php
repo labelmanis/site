@@ -38,13 +38,13 @@
             <div class="col-12 mx-auto">
                 <ul class="list-unstyled text-center">
                     <li class="bg-white text-left pb-1 inline-block">
-                        <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Berapa%20biaya%20pembuatan%20sticker%20C-SRV?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Berapa biaya pembuatan sticker C-SRV?</a>
+                        <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Berapa%20biaya%20pembuatan%20cutting%20sticker%20di%20labelmanis?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Berapa biaya pembuatan cutting sticker di labelmanis?</a>
                     </li>
                     <li class="bg-white text-left pb-1 inline-block">
-                        <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Berapa%20minimal%20order%20pembuatan%20sticker%20C-SRV?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Berapa minimal order pembuatan sticker C-SRV?</a>
+                        <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Berapa%20minimal%20order%20pembuatan%20cutting%20sticker%20di%20labelmanis?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Berapa minimal order pembuatan cutting sticker di labelmanis?</a>
                     </li>
                     <li class="bg-white text-left pb-1 inline-block">
-                        <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Berapa%20lama%20proses%20pembuatan%20sticker%20C-SRV?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Berapa lama proses pembuatan sticker C-SRV?</a>
+                        <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Berapa%20lama%20proses%20pembuatan%20cutting%20sticker%20di%20labelmanis?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Berapa lama proses pembuatan cutting sticker di labelmanis?</a>
                     </li>
                     <li class="bg-white text-left pb-1 inline-block">
                         <a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=Bagaimana%20cara%20melakukan%20pemesanan?" class="btn btn-success pl-4 pr-4 rounded-10 text-light btn-custom-wa text-left"> Bagaimana cara melakukan pemesanan?</a>
@@ -74,8 +74,8 @@
                 <div class="col-12 text-center">
                     <i class="fa fa-life-ring fa-lg"></i> <span class="fw-bold mb-4" style="font-weight: bold;">GARANSI</span>
                     <ul class="text-center mt-4 list-unstyled">
-                        <li>Uang kembali 100% jika desain & hasil cetak tidak sesuai.</li>
-                        <li>Uang kembali sebagian jika jumlah Stiker C-SRV yang dikirim kurang dari jumlah pemesanan.</li>
+                        <li>Uang kembali 100% jika desain & hasil cetak, bentuknya tidak sesuai.</li>
+                        <li>Uang kembali sebagian jika jumlah Cutting Stiker yang dikirim kurang dari jumlah pemesanan.</li>
                         <li>Syarat claim garansi membuat video unboxing.</li>
                     </ul>
                 </div>

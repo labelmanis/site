@@ -2,7 +2,7 @@
 <html lang="">
 	<head>
 		<meta charset="utf-8">
-		<title>LABELMANIS.COM | lebih cantik lebih menarik</title>
+		<title>LABELMANIS.COM | lebih manis lebih menggoda</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="google-site-verification" content="aMahnd-PAKSYTQcVE5aUqVZuz8fk63LZRniRwb-oeyY" />
 		<meta name="author" content="">
