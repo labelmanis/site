@@ -11,7 +11,7 @@
 					<div class="row">
 						<div class="col-12 p-0">
 							<div class="spacer-double d-block d-sm-none d-md-block"></div>
-							<h1 class="big b text-uppercase" data-aos="zoom-in-down">Membuat produkmu terlihat lebih menarik 🥰</h1>
+							<h1 class="big b text-uppercase" data-aos="zoom-in-down">BUAT PRODUKMU TAMPIL LEBIH MENARIK 🥰</h1>
 							<div class="spacer-double d-block d-sm-none d-md-block"></div>
 						</div>
 					</div>
@@ -237,22 +237,8 @@
 	</section>
 	<!-- section close -->
 	
-	<?php include 'harga-promo.php'; ?>
-	
-	<section class="garansi p-0 pt-5 pb-5">
-		<div class="container">
-			<div class="row">
-				<div class="col-12 text-center">
-					<i class="fa fa-life-ring fa-lg"></i> <span class="fw-bold mb-4" style="font-weight: bold;">GARANSI</span>
-					<ul class="text-center mt-4 list-unstyled">
-						<li>Uang kembali 100% jika desain & hasil cetak, bentuknya tidak sesuai.</li>
-						<li>Uang kembali sebagian jika jumlah Cutting Stiker yang dikirim kurang dari jumlah pemesanan.</li>
-						<li>Syarat claim garansi membuat video unboxing.</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
+	<?php include 'harga-promo.php';?>
+	<?php include 'garansi.php';?>
 </div>
 <div class="bg-white text-center pb-5">
 	<a href="contact" class="btn btn-success pl-4 pr-4 rounded-pill text-light btn-custom-wa"> <i class="fa fa-whatsapp fa-lg"></i> Tanya sesuatu</a>

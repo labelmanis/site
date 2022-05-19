@@ -1,4 +1,4 @@
-<section id="service" class="pricing pb-0 pt-5">
+<section id="service" class="pricing pb-0">
 	<div class="container">
 		<div class="row">
 			<div class=" col-12 text-center">

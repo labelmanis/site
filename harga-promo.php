@@ -1,9 +1,9 @@
-<section id="service" class="pricing pb-0 pt-5">
+<section id="service" class="pricing pb-0">
 	<div class="container">
 		<div class="row">
 			<div class=" col-12 text-center">
-				<h2 class="mb-1" data-aos="fade-right">Promo hingga 15 Mei 2022</h2>
-				<h5 id="demo" class="mb-5 text-white bg-color d-inline-block p-2 rounded-lg"></h5>
+				<h2 class="mb-1" data-aos="fade-right">Promo hingga 21 Mei 2022</h2>
+				<h5 id="demo" class="mb-5 text-white bg-success d-inline-block p-2 pr-4 pl-4 rounded-lg"></h5>
 				<main>
 					<div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 row-cols-12 mb-3 text-center">						
 						<div class="col" data-aos="fade-up">
@@ -19,7 +19,7 @@
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 										<li class="text-capitalize">desain lable full color</li>
 									</ul>
-									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#desain-lable-full-color"><i class="fa fw fa-eye"></i> lihat detail</button>
+									<button class="text-decoration-none w-100 btn btn-danger btn-custom text-white" data-toggle="modal" data-target="#desain-lable-full-color"><i class="fa fw fa-eye"></i> LIHAT DETAIL</button>
 								</div>
 							</div>
 						</div>
@@ -36,7 +36,7 @@
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Free</h2></li>
 										<li class="text-capitalize">desain lable black white</li>
 									</ul>
-									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#desain-lable-black-white"><i class="fa fw fa-eye"></i> lihat detail</button>
+									<button class="text-decoration-none w-100 btn btn-danger btn-custom text-white" data-toggle="modal" data-target="#desain-lable-black-white"><i class="fa fw fa-eye"></i> LIHAT DETAIL</button>
 								</div>
 							</div>
 						</div>
@@ -53,7 +53,7 @@
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
 										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
-									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#vinyl-cutting-sticker"><i class="fa fw fa-eye"></i> lihat detail</button>
+									<button class="text-decoration-none w-100 btn btn-danger btn-custom text-white" data-toggle="modal" data-target="#vinyl-cutting-sticker"><i class="fa fw fa-eye"></i> LIHAT DETAIL</button>
 								</div>
 							</div>
 						</div>
@@ -70,7 +70,7 @@
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 65.000</h2></li>
 										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
-									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#cutting-sticker-transparent"><i class="fa fw fa-eye"></i> lihat detail</button>
+									<button class="text-decoration-none w-100 btn btn-danger btn-custom text-white" data-toggle="modal" data-target="#cutting-sticker-transparent"><i class="fa fw fa-eye"></i> LIHAT DETAIL</button>
 								</div>
 							</div>
 						</div>
@@ -87,7 +87,7 @@
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 58.000</h2></li>
 										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
-									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#cutting-sticker-chromo"><i class="fa fw fa-eye"></i> lihat detail</button>
+									<button class="text-decoration-none w-100 btn btn-danger btn-custom text-white" data-toggle="modal" data-target="#cutting-sticker-chromo"><i class="fa fw fa-eye"></i> LIHAT DETAIL</button>
 								</div>
 							</div>
 						</div>
@@ -104,7 +104,7 @@
 										<li class="text-capitalize" data-aos="fade-right"><h2 class="fw-bold m-0">Rp. 74.000</h2></li>
 										<li class="text-capitalize">80pcs sticker 5x5cm</li>
 									</ul>
-									<button class="text-decoration-none w-100 btn btn-danger text-white text-capitalize" data-toggle="modal" data-target="#cutting-sticker-silver"><i class="fa fw fa-eye"></i> lihat detail</button>
+									<button class="text-decoration-none w-100 btn btn-danger btn-custom text-white" data-toggle="modal" data-target="#cutting-sticker-silver"><i class="fa fw fa-eye"></i> LIHAT DETAIL</button>
 								</div>
 							</div>
 						</div>
