@@ -131,7 +131,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf%20(1).jpg" class="wow" alt="" />
+							<img src="images/portfolio/pf (1) copy.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -145,7 +145,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf%20(2).jpg" class="wow" alt="" />
+							<img src="images/portfolio/pf (2) copy.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -159,7 +159,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf%20(3).jpg" class="wow" alt="" />
+							<img src="images/portfolio/pf (3) copy.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -173,7 +173,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf%20(4).jpg" class="wow" alt="" />
+							<img src="images/portfolio/pf (4) copy.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -187,7 +187,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf%20(5).jpg" class="wow" alt="" />
+							<img src="images/portfolio/pf (5) copy.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -201,7 +201,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf%20(6).jpg" class="wow" alt="" />
+							<img src="images/portfolio/pf (6) copy.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -243,5 +243,6 @@
 <div class="bg-white text-center pb-5">
 	<a href="contact" class="btn btn-success pl-4 pr-4 rounded-pill text-light btn-custom-wa"> <i class="fa fa-whatsapp fa-lg"></i> Tanya sesuatu</a>
 </div>
+
 <!-- content close -->
 <?php include 'footer.php';?>

@@ -9,7 +9,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/portfolio/pf%20(1).jpg" class="col-12 p-0" />
+				<img src="images/portfolio/pf (1) copy.jpg" class="col-12 p-0" />
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
@@ -27,7 +27,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/portfolio/pf%20(2).jpg" class="col-12 p-0"/>
+				<img src="images/portfolio/pf (2) copy.jpg" class="col-12 p-0"/>
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
@@ -45,7 +45,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/portfolio/pf%20(3).jpg" class="col-12 p-0" />
+				<img src="images/portfolio/pf (3) copy.jpg" class="col-12 p-0" />
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
@@ -63,7 +63,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/portfolio/pf%20(4).jpg" class="col-12 p-0" />
+				<img src="images/portfolio/pf (4) copy.jpg" class="col-12 p-0" />
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
@@ -81,7 +81,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/portfolio/pf%20(5).jpg" class="col-12 p-0" />
+				<img src="images/portfolio/pf (5) copy.jpg" class="col-12 p-0" />
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
@@ -99,7 +99,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
-				<img src="images/portfolio/pf%20(6).jpg" class="col-12 p-0" />
+				<img src="images/portfolio/pf (6) copy.jpg" class="col-12 p-0" />
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
