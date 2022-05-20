@@ -131,7 +131,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf (1) copy.jpg" class="wow" alt="" />
+							<img src="images/portfolio/label roti dangdut.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -145,7 +145,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf (2) copy.jpg" class="wow" alt="" />
+							<img src="images/portfolio/label nasiyami.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -159,7 +159,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf (3) copy.jpg" class="wow" alt="" />
+							<img src="images/portfolio/label mamamimi.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -173,7 +173,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf (4) copy.jpg" class="wow" alt="" />
+							<img src="images/portfolio/label makacu.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -187,7 +187,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf (5) copy.jpg" class="wow" alt="" />
+							<img src="images/portfolio/label bengkel modif suherman.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
@@ -201,7 +201,7 @@
 									<span>Contoh Label</span>
 								</span>
 							</span>
-							<img src="images/portfolio/pf (6) copy.jpg" class="wow" alt="" />
+							<img src="images/portfolio/label bawang goreng arumi.jpg" class="wow" alt="" />
 						</div>
 					</div>
 				</div>
