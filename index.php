@@ -241,7 +241,9 @@
 	<?php include 'garansi.php';?>
 </div>
 <div class="bg-white text-center pb-5">
-	<a href="contact" class="btn btn-success pl-4 pr-4 rounded-pill text-light btn-custom-wa"> <i class="fa fa-whatsapp fa-lg"></i> Tanya sesuatu</a>
+	<a href="https://api.whatsapp.com/send?phone=6281915063899&amp;text=silahkahan%20tulis%20nama%20brand%20usaha%20anda%20dan%20jumlah%20label%20sticker%20yang%20nada%20butuhkan.%20labelmanis%20akan%20merekomendasikan%20sticker%20yang%20tepat%20untuk%20usaha%20anda.%20nama%20brand%20...%20jumlah%20sticker%20..." class="shake-animation btn btn-success btn-lg pl-4 pr-4 rounded-pill text-light btn-custom-wa"> <i class="fa fa-shopping-cart fa-fw"></i> Order Sekarang</a><br><br>
+
+	<a href="contact" class="btn pl-4 pr-4 rounded-pill bg-light"> <i class="fa fa-whatsapp"></i> Tanya sesuatu</a>
 </div>
 
 <!-- content close -->
