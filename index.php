@@ -237,7 +237,7 @@
 	</section>
 	<!-- section close -->
 	
-	<?php include 'harga-promo.php';?>
+	<?php include 'harga-normal.php';?>
 	<?php include 'garansi.php';?>
 </div>
 <div class="bg-white text-center pb-5">

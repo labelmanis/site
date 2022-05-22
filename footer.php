@@ -11,7 +11,6 @@
 </footer>
 <!-- Button trigger modal -->
 <?php include 'modal-gallery.php';?>
-<?php include 'modal-promo.php';?>
 
 </div>
 <!-- footer close -->
